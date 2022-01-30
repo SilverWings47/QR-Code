@@ -7,12 +7,12 @@
     font-family: 'Outfit', sans-serif;
 }
 body {
-    background: hsl(172, 26%, 78%);
+    background: hsla(223, 20%, 85%, 1);
 }
 
 .card {
     width: 300px;
-    margin: 50px auto;
+    margin: 80px auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
